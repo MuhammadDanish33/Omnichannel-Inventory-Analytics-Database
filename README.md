@@ -1,4 +1,4 @@
-# Omnichannel Inventory Availability & Profit Protection System
+# Omnichannel Inventory Availability & Profit Protection System Data
 ### Synthetic Retail Analytics Database — Excel | Power Query | Power Pivot | Power BI
 
 ![Excel](https://img.shields.io/badge/Tool-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
